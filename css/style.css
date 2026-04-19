@@ -49,3 +49,21 @@ legend {
 hr {
     margin: 20px 0;
 }
+
+.wrapper {
+
+  display: flex;
+
+}
+
+.wrapper div {
+
+  flex: 1;
+
+}
+
+/*
+div {
+  border: double cornflowerblue;
+}
+*/
